@@ -29,16 +29,8 @@ While most of my projects are still conceptual, exciting updates are on their wa
 ---
 
 ## 📈 GitHub Stats
-(Consider embedding GitHub stats here for a visual touch: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats))
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=UnknownHuman2&show_icons=true&theme=dark)
-
----
-
-## 🎨 Cool Ideas for Images
-- Showcase your favorite games with logos or game art.
-- Add badges for skills like Python, C++, Rust, or specific gaming achievements.
-- Display concept art for your MMP game or anti-cheat system.
 
 ---
 
