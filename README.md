@@ -13,6 +13,12 @@ Inspiration for my projects often stems from my love for games like:
 - **Warzone**
 
 Feel free to connect if you're into gaming or game development! Let's create something amazing together.
+---
+
+## 🤖 My Approach to AI
+I believe in using AI as a tool to **simplify my workflow**, **enhance productivity**, **bring ideas to life** and **make my life easy** —not as a shortcut to copy-paste whole chunks of code. I enjoy collaborating with AI to brainstorm solutions and refine my projects while ensuring the creativity and integrity of my work remains entirely my own.
+
+---
 
 ## 🔧 Tech Stack
 Here's what I'm currently working with:
