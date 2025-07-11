@@ -76,7 +76,7 @@ Just another internet human trying to build games, OSes, and questionable side p
 ## 🧾 Bonus: What I’m Not
 
 - ❌ I’m not a "10x dev" — I'm a 1x dev with a good AI assistant.  
-  *(To be honest, I’m not even a dev — just preventing)*
+  *(To be honest, I’m not even a dev — just pretending)*
 - ❌ I’m not a framework fanboy — I’m allergic to hype.
 - ❌ I’m not writing production code — this is *chaos code* for learning.
 
