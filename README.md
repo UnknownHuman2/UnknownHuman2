@@ -1,5 +1,5 @@
 
-# 👋 Yo, I'm UnknownHuman2
+# 👋 Yo, I'm Amandeep Singh (UnknownHuman2)
 
 Just another internet human trying to build games, OSes, and questionable side projects — powered by caffeine, curiosity, and occasionally AI.
 
