@@ -13,7 +13,7 @@ Just another internet human trying to build games, OSes, and questionable side p
 - 🕹️ Exploring **game development** — yes, **full 3D**, because 2D is for sane people.
 - 🧵 Hacking on a **Rust-based OS** *for fun* — because therapy is expensive & Next thing you know, I’ll build TempleOS 2.
 - 🐧 I use **Arch Linux** — not to flex, just because I enjoy fixing my bootloader at 2AM.
-- ✍️ I occasionally rant/type blogs on [Medium](https://medium.com/@3001std) — looks good on profiles *and* resumes.
+- ✍️ I occasionally rant/type blogs on [Medium](https://medium.com/@UnknownHuman2) — looks good on profiles *and* resumes.
 - 🤖 I use **AI to code** — not because I’m lazy, but because I actually want to finish things before I die.
 
 ---
@@ -67,7 +67,7 @@ Just another internet human trying to build games, OSes, and questionable side p
 
 ## 🔗 Find Me Elsewhere
 
-- 📜 Medium → [@3001std](https://medium.com/@3001std)  
+- 📜 Medium → [@UnknownHuman2](https://medium.com/@UnknownHuman2)  
 - 🧪 GitHub → [@UnknownHuman2](https://github.com/UnknownHuman2)  
 - 📷 Instagram → [@UnknownHuman3003](https://www.instagram.com/unknownhuman3003)
 
